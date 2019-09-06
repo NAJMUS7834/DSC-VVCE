@@ -14,6 +14,11 @@
 .card {
     font-size: .875rem;
 }
+#bg{
+    background-image: url("assets/img/VVCE/__banner.png");
+					     background-position: bottom; background-size: 100% auto;
+
+}
 
 *,
 *::before,
